@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+
 # Face-With-Yolo
 
 Yolov3 is an algorithm that uses deep convolutional neural networks to perform object detection. This repository implements Yolov3 using TensorFlow 2.0
+![image](https://github.com/Rajatkhatri7/Face-With-Yolo/blob/master/Dectections/download.png)
 
 ## Getting started
 
@@ -140,4 +141,3 @@ python detect_video.py --video path_to_file.mp4 --output ./detections/output.avi
 ```
 Then you can find the detections in the `detections` folder.
 
->>>>>>> 46305253cdbca1acedda86ec1c479916945d6ab7
