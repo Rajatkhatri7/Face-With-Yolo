@@ -23,12 +23,12 @@ from .batch_norm import BatchNormalization
 from .utils import broadcast_iou
 
 yolo_max_boxes = 100
-yolo_iou_threshold = 0.2
-yolo_score_threshold = 0.2
+yolo_iou_threshold = 0.3
+yolo_score_threshold = 0.3
 # customize your model through the following parameters
 flags.DEFINE_integer('yolo_max_boxes', 100, 'maximum number of detections at one time')
-flags.DEFINE_float('yolo_iou_threshold', 0.2, 'iou threshold')
-flags.DEFINE_float('yolo_score_threshold', 0.2, 'score threshold')
+flags.DEFINE_float('yolo_iou_threshold', 0.3, 'iou threshold')
+flags.DEFINE_float('yolo_score_threshold', 0.3, 'score threshold')
 
 yolo_anchors = np.array([(10, 13), (16, 30), (33, 23), (30, 61), (62, 45),
                          (59, 119), (116, 90), (156, 198), (373, 326)],
