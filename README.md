@@ -1,4 +1,6 @@
 [![DeepSource](https://deepsource.io/gh/Rajatkhatri7/Face-With-Yolo.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/Rajatkhatri7/Face-With-Yolo/?ref=repository-badge)
+
+[![DeepSource](https://deepsource.io/gh/Rajatkhatri7/Face-With-Yolo.svg/?label=resolved+issues&show_trend=true)](https://deepsource.io/gh/Rajatkhatri7/Face-With-Yolo/?ref=repository-badge)
 # Face-With-Yolo
 
 Yolov3 is an algorithm that uses deep convolutional neural networks to perform object detection. This repository implements Yolov3 using TensorFlow 2.0
