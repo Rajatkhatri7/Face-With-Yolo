@@ -15,7 +15,7 @@ Yolov3 is an algorithm that uses deep convolutional neural networks to perform o
 pip install -r requirements.txt
 ```
 
-### Downloading official pretrained weights
+### Downloading official pretrained weights(optional)
 For Linux: Download official yolov3 weights pretrained on COCO dataset. if you want to run it on pretrained weights 
 
 ```
@@ -32,6 +32,7 @@ You can download the yolov3 weights by clicking [here](https://pjreddie.com/medi
 
 ### Using Custom trained weights
 Add your custom weights file to weights folder and your custom .names file into data/labels folder.
+[Click here](https://drive.google.com/file/d/1-7VwHN6bBbcQ9CZTQzDLSDGCL6MJkDus/view?usp=drivesdk) to download Custom weights which i trained on face dataset.
   
 ### Saving your yolov3 weights as a TensorFlow model.
 Load the weights using `load_weights.py` script. This will convert the yolov3 weights into TensorFlow .ckpt model files!
