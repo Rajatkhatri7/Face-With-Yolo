@@ -5,7 +5,7 @@
 
 Yolov3 is an algorithm that uses deep convolutional neural networks to perform object detection. This repository implements Yolov3 using TensorFlow 2.0
 
-![image](https://github.com/Rajatkhatri7/Face-With-Yolo/blob/master/Dectections/download.png)
+![image](https://github.com/Rajatkhatri7/Face-With-Yolo/blob/master/detections/download.png)
 
 ## Getting started
 
