@@ -78,10 +78,10 @@ Then you can find the detections in the `detections` folder.
 
 ## Reference
 
-*https://github.com/cydonia999/Tiny_Faces_in_Tensorflow/blob/master/tiny_face_eval.py
-*https://towardsdatascience.com/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208
-*https://blog.francium.tech/custom-object-training-and-detection-with-yolov3-darknet-and-opencv-41542f2ff44e
-*https://public.roboflow.com/
+* https://github.com/cydonia999/Tiny_Faces_in_Tensorflow/blob/master/tiny_face_eval.py
+* https://towardsdatascience.com/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208
+* https://blog.francium.tech/custom-object-training-and-detection-with-yolov3-darknet-and-opencv-41542f2ff44e
+* https://public.roboflow.com/
 =======
 
 
